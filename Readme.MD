@@ -1,1 +1,1 @@
-Simple Implementation of the REST Service using DropWizard - Please find the postman collection in the source files for testing the REST calls
+Simple Implementation of the REST Service using DropWizard - As no specific tool was mentioned for the testing the REST API calls, I just opted for Postman collection (https://www.getpostman.com/) and have added the collection of API calls in the solution dir. You can use it to test the functionality of the service.
